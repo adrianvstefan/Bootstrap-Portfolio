@@ -21,16 +21,13 @@ body{
 }
 
 /* Hero Section */
-/* .jumbotron {
-    position: relative;
-    height: 10px;
+.hero img {
+    height: 300px;
 }
-.jumbotron > img, .text {
-    position: absolute;
-
+/* About Me section */
+.aboutme img {
+    height: 300px;
 }
-.jumbotron h1, p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
+.name {
+    color: rgb(116, 38, 38);
+}
