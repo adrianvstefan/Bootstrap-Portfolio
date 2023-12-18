@@ -5,9 +5,32 @@ html, body {
 body{
     font-family: 'Hedvig Letters Serif', serif;
 }
+/* Navbar style */
 .navbar {
-    height: 10%;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
 }
-.navbar-brand img {
-    transform: scale(10%);
+.container img {
+    transform: scale(80%);
+    float: left;
 }
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+/* Hero Section */
+/* .jumbotron {
+    position: relative;
+    height: 10px;
+}
+.jumbotron > img, .text {
+    position: absolute;
+
+}
+.jumbotron h1, p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
