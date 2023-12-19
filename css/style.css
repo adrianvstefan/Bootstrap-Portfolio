@@ -31,3 +31,21 @@ body{
 .name {
     color: rgb(116, 38, 38);
 }
+/* Card Section */
+.work img {
+    height: 200px;
+}
+.contactme img {
+    height: 200px;
+}
+.resume img {
+    height: 200px;
+}
+/* Footer */
+footer img {
+    transform: scale(50%);
+}
+.card {
+    max-width: 540px;
+    
+}
