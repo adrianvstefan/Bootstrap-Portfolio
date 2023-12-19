@@ -47,5 +47,7 @@ footer img {
 }
 .card {
     max-width: 540px;
-    
+}
+.card img {
+    cursor: pointer;
 }
